@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: core-automatriz
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: aguch
+Implementation-Vendor-Id: com.amediavilla
+Build-Jdk: 1.8.0_261
+Implementation-URL: https://spring.io/projects/spring-boot/core-automa
+ triz
+Created-By: Maven Integration for Eclipse
+
